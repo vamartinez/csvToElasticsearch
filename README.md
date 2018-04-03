@@ -26,14 +26,14 @@ $ python csv_to_elastic.py \
         "dni" : "%dni%",
         }'
     
-    CSV:
+
+CSV:
 
 name,ci,dni
 user,001,023
 
 
 ## Flags
-Required:
 ```
 --must-be-string String with comma separator
   fields that 
