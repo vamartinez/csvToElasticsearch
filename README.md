@@ -24,8 +24,7 @@ $ python csv_to_elastic.py \
         "name" : "%name%",
         "ci" : "%ci%",
         "dni" : "%dni%",
-        
-    }'
+        }'
     
     CSV:
 
